@@ -1,0 +1,6 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 40px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "Roboto Condensed";
+}
